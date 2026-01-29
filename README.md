@@ -1,5 +1,5 @@
 # VLR.GG API
-
+copyrighted https://github.com/axsddlr/vlrggapi
 An Unofficial REST API for [vlr.gg](https://www.vlr.gg/), providing real-time access to Valorant Esports match data and news coverage. Modified and maintained by [itznan](https://github.com/itznan).
 
 
